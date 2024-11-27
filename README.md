@@ -25,7 +25,7 @@ I'm a Data Science student at the University of Minnesota, Twin Cities.
     ![IntelliJ Idea](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=for-the-badge&logo=IntelliJ-IDEA&logoColor=white)
 
 ## 📚 Projects
-- [Credit Card Approval Prediction]()
+- [Credit Card Approval Prediction](https://github.com/kevint4890/CreditCardApproval)
 
 ## 📫 Contact info
 - Personal email: kevint4890@gmail.com
