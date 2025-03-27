@@ -1,4 +1,4 @@
-# Hello, I'm Kevin Tran <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"></h2>
+# Hello, I'm Kevin Tran
 ## 🎓 About me
 I'm a Data Science student at the University of Minnesota, Twin Cities.
 
