@@ -26,6 +26,7 @@ I'm a Data Science student at the University of Minnesota, Twin Cities.
 
 ## 📚 Projects
 - [Credit Card Approval Prediction](https://github.com/kevint4890/CreditCardApproval)
+- [Cybersecurity Events Analysis](https://github.com/kevint4890/2024_5533_cybersecurity_project)
 
 ## 📫 Contact info
 - Personal email: kevint4890@gmail.com
