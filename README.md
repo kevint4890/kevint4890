@@ -30,4 +30,3 @@ I'm a Data Science student at the University of Minnesota, Twin Cities.
 
 ## 📫 Contact info
 - Personal email: kevint4890@gmail.com
-- School email: tran1199@umn.edu
