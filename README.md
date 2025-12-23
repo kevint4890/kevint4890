@@ -1,6 +1,6 @@
 # Hello, I'm Kevin Tran
 ## 🎓 About me
-I'm a Data Science student at the University of Minnesota, Twin Cities.
+I have a Bachelor's of Science in Data Science at the University of Minnesota, Twin Cities. Currently working as a Software Engineer.
 
 ## 🛠 Skills
 - 📋 Languages: 
@@ -30,3 +30,4 @@ I'm a Data Science student at the University of Minnesota, Twin Cities.
 
 ## 📫 Contact info
 - Personal email: kevint4890@gmail.com
+- LinkedIn: https://www.linkedin.com/in/kevin-tran03/
